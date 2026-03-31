@@ -27,7 +27,7 @@ void ACPP_InteractablePawn::SetupPlayerInputComponent(UInputComponent* PlayerInp
 	}
 }
 
-void ACPP_InteractablePawn::PerformWorldTrace()
+void PerformWorldTrace()
 {
 	UE_LOG(LogTemplateCharacter, Warning, TEXT("PerformWorldTrace"));
 

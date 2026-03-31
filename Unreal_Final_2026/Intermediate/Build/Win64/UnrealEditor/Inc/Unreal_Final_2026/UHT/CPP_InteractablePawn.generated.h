@@ -17,6 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class ACPP_InteractablePawn ****************************************************
+#define FID_Working_UnrealFinal_2026_Unreal_Final_2026_Source_Unreal_Final_2026_CPP_InteractablePawn_h_15_CALLBACK_WRAPPERS
 UNREAL_FINAL_2026_API UClass* Z_Construct_UClass_ACPP_InteractablePawn_NoRegister();
 
 #define FID_Working_UnrealFinal_2026_Unreal_Final_2026_Source_Unreal_Final_2026_CPP_InteractablePawn_h_15_INCLASS_NO_PURE_DECLS \
@@ -46,6 +47,7 @@ public: \
 #define FID_Working_UnrealFinal_2026_Unreal_Final_2026_Source_Unreal_Final_2026_CPP_InteractablePawn_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
+	FID_Working_UnrealFinal_2026_Unreal_Final_2026_Source_Unreal_Final_2026_CPP_InteractablePawn_h_15_CALLBACK_WRAPPERS \
 	FID_Working_UnrealFinal_2026_Unreal_Final_2026_Source_Unreal_Final_2026_CPP_InteractablePawn_h_15_INCLASS_NO_PURE_DECLS \
 	FID_Working_UnrealFinal_2026_Unreal_Final_2026_Source_Unreal_Final_2026_CPP_InteractablePawn_h_15_ENHANCED_CONSTRUCTORS \
 private: \

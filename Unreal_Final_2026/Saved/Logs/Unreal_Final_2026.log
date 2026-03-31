@@ -2057,3 +2057,110 @@ Detoured run took 655ms
 [2026.03.31-19.04.45:241][831]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.03.31-19.04.45:242][831]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
 [2026.03.31-19.04.45:254][831]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.31-19.06.19:469][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2026.03.31-19.07.10:469][973]Candidate modules for hot reload:
+[2026.03.31-19.07.10:469][973]  Unreal_Final_2026
+[2026.03.31-19.07.10:474][973]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Unreal_Final_2026,3800 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk]
+[2026.03.31-19.07.10:481][973]Warning: Starting HotReload took  0.0s.
+[2026.03.31-19.07.16:545][642]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.03.31-19.07.16:545][642]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Unreal_Final_2026,3800 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk
+[2026.03.31-19.07.16:545][642]CompilerResultsLog: Log file: C:\Users\Developer\AppData\Local\UnrealBuildTool\Log.txt
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Working\UnrealFinal_2026).
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: Creating makefile for Unreal_Final_2026Editor (command line arguments changed)
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: Available x64 toolchains (1):
+[2026.03.31-19.07.16:546][642]CompilerResultsLog:  * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207
+[2026.03.31-19.07.16:546][642]CompilerResultsLog:     (Family=14.44.35207, FamilyRank=1, Version=14.44.35213, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64)
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: Visual Studio 2022 compiler version 14.44.35213 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: Building Unreal_Final_2026Editor...
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: Using Visual Studio 2022 14.44.35213 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: Determining max actions to execute in parallel (16 physical cores, 24 logical cores)
+[2026.03.31-19.07.16:546][642]CompilerResultsLog:   Executing up to 16 processes, one per physical core
+[2026.03.31-19.07.16:546][642]CompilerResultsLog:   Requested 1.5 GB memory per action, 7.29 GB available: limiting max parallel actions to 4
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2026.03.31-19.07.16:546][642]CompilerResultsLog:   Storage capacity 40Gb
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: ---- Starting trace: 260331_140712 ----
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: [1/4] Compile [x64] Module.Unreal_Final_2026.2.cpp
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: C:\Working\UnrealFinal_2026\Unreal_Final_2026\Source\Unreal_Final_2026\CPP_InteractablePawn.cpp(30,29): error C2084: function 'void ACPP_InteractablePawn::PerformWorldTrace(void)' already has a body
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: void ACPP_InteractablePawn::PerformWorldTrace()
+[2026.03.31-19.07.16:546][642]CompilerResultsLog:                             ^
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: C:\Working\UnrealFinal_2026\Unreal_Final_2026\Intermediate\Build\Win64\UnrealEditor\Inc\Unreal_Final_2026\UHT\CPP_InteractablePawn.gen.cpp(24,29): note: see previous definition of 'ACPP_InteractablePawn::PerformWorldTrace'
+[2026.03.31-19.07.16:546][642]CompilerResultsLog: void ACPP_InteractablePawn::PerformWorldTrace()
+[2026.03.31-19.07.16:546][642]CompilerResultsLog:                             ^
+[2026.03.31-19.07.16:546][643]CompilerResultsLog: Trace written to file C:/Users/Developer/AppData/Local/UnrealBuildTool/Log.uba with size 3.2kb
+[2026.03.31-19.07.16:546][643]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 4.03 seconds
+[2026.03.31-19.07.16:546][643]CompilerResultsLog: 
+[2026.03.31-19.07.16:546][643]CompilerResultsLog: Result: Failed (OtherCompilationError)
+[2026.03.31-19.07.16:546][643]CompilerResultsLog: Total execution time: 5.87 seconds
+[2026.03.31-19.07.16:546][643]LogMainFrame: MainFrame: Module compiling took 6.096 seconds
+[2026.03.31-19.07.16:546][643]Warning: HotReload failed, recompile failed
+[2026.03.31-19.08.57:820][681]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1347.335327
+[2026.03.31-19.08.58:819][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-19.08.58:819][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1348.001831, Update Interval: 356.103394
+[2026.03.31-19.10.14:211][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.31-19.10.15:394][689]LogSlate: Window 'Save Content' being destroyed
+[2026.03.31-19.10.15:414][689]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-19.10.15:471][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/BP_InteractablePawn] ([2] browsable assets)...
+[2026.03.31-19.10.15:511][689]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/BP_InteractablePawn.BP_InteractablePawn]
+[2026.03.31-19.10.15:512][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_InteractablePawn]
+[2026.03.31-19.10.15:512][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_InteractablePawn" FILE="../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Characters/BP_InteractablePawn.uasset" SILENT=true
+[2026.03.31-19.10.15:516][689]LogWorldPartition: Can't find class descriptor '/Game/Characters/BP_InteractablePawn.BP_InteractablePawn_C' for saving '/Game/Characters/BP_InteractablePawn.BP_InteractablePawn_C'
+[2026.03.31-19.10.15:516][689]LogWorldPartition: Can't find class descriptor '/Game/Characters/BP_InteractablePawn.BP_InteractablePawn_C' for saving '/Game/Characters/BP_InteractablePawn.BP_InteractablePawn_C'
+[2026.03.31-19.10.15:523][689]LogSavePackage: Moving output files for package: /Game/Characters/BP_InteractablePawn
+[2026.03.31-19.10.15:523][689]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/BP_InteractablePawn851D62894E64079A3D5CAA86BB08D423.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Characters/BP_InteractablePawn.uasset'
+[2026.03.31-19.10.15:530][689]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.836 ms (total: 1.01 sec)
+[2026.03.31-19.10.15:590][689]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.31-19.10.15:590][689]LogContentValidation: Enabled validators:
+[2026.03.31-19.10.15:590][689]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-19.10.15:590][689]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-19.10.15:590][689]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-19.10.15:591][689]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-19.10.15:591][689]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-19.10.15:591][689]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-19.10.15:591][689]AssetCheck: /Game/Characters/BP_InteractablePawn Validating asset
+[2026.03.31-19.10.16:352][771]Candidate modules for hot reload:
+[2026.03.31-19.10.16:352][771]  Unreal_Final_2026
+[2026.03.31-19.10.16:356][771]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Unreal_Final_2026,8880 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk]
+[2026.03.31-19.10.16:360][771]Warning: Starting HotReload took  0.0s.
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Unreal_Final_2026,8880 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: Log file: C:\Users\Developer\AppData\Local\UnrealBuildTool\Log.txt
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Working\UnrealFinal_2026).
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: Building Unreal_Final_2026Editor...
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: Using Visual Studio 2022 14.44.35213 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: Determining max actions to execute in parallel (16 physical cores, 24 logical cores)
+[2026.03.31-19.10.20:729][242]CompilerResultsLog:   Executing up to 16 processes, one per physical core
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 4 action(s)
+[2026.03.31-19.10.20:729][242]CompilerResultsLog:   Storage capacity 40Gb
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: ---- Starting trace: 260331_141016 ----
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: UbaSessionServer - Disable remote execution (remote sessions will finish current processes)
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: ------ Building 4 action(s) started ------
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: [1/4] Compile [x64] Module.Unreal_Final_2026.2.cpp
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: C:\Working\UnrealFinal_2026\Unreal_Final_2026\Source\Unreal_Final_2026\CPP_InteractablePawn.cpp(42,18): error C3861: 'GetActorLocation': identifier not found
+[2026.03.31-19.10.20:729][242]CompilerResultsLog:     StartLocation = GetActorLocation();
+[2026.03.31-19.10.20:729][242]CompilerResultsLog:                     ^
+[2026.03.31-19.10.20:729][242]CompilerResultsLog: C:\Working\UnrealFinal_2026\Unreal_Final_2026\Source\Unreal_Final_2026\CPP_InteractablePawn.cpp(44,33): error C3861: 'GetActorForwardVector': identifier not found
+[2026.03.31-19.10.20:729][242]CompilerResultsLog:     EndLocation = StartLocation + (GetActorForwardVector() * LengthOfTrace);
+[2026.03.31-19.10.20:729][242]CompilerResultsLog:                                    ^
+[2026.03.31-19.10.20:729][243]CompilerResultsLog: C:\Working\UnrealFinal_2026\Unreal_Final_2026\Source\Unreal_Final_2026\CPP_InteractablePawn.cpp(49,23): error C3861: 'GetWorld': identifier not found
+[2026.03.31-19.10.20:729][243]CompilerResultsLog:     bool bHitSomething = GetWorld()->LineTraceSingleByChannel(OutHitResult,
+[2026.03.31-19.10.20:729][243]CompilerResultsLog:                          ^
+[2026.03.31-19.10.20:729][243]CompilerResultsLog: C:\Working\UnrealFinal_2026\Unreal_Final_2026\Source\Unreal_Final_2026\CPP_InteractablePawn.cpp(61,18): error C3861: 'GetWorld': identifier not found
+[2026.03.31-19.10.20:729][243]CompilerResultsLog:             DrawDebugLine(GetWorld(), StartLocation, EndLocation, FColor::Green, false, 10.f, 0, 3.f);
+[2026.03.31-19.10.20:729][243]CompilerResultsLog:                           ^
+[2026.03.31-19.10.20:729][243]CompilerResultsLog: C:\Working\UnrealFinal_2026\Unreal_Final_2026\Source\Unreal_Final_2026\CPP_InteractablePawn.cpp(66,18): error C3861: 'GetWorld': identifier not found
+[2026.03.31-19.10.20:729][243]CompilerResultsLog:             DrawDebugLine(GetWorld(), StartLocation, EndLocation, FColor::Yellow, false, 10.f, 0, 3.f);
+[2026.03.31-19.10.20:729][243]CompilerResultsLog:                           ^
+[2026.03.31-19.10.20:729][243]CompilerResultsLog: C:\Working\UnrealFinal_2026\Unreal_Final_2026\Source\Unreal_Final_2026\CPP_InteractablePawn.cpp(71,17): error C3861: 'GetWorld': identifier not found
+[2026.03.31-19.10.20:729][243]CompilerResultsLog:         DrawDebugLine(GetWorld(), StartLocation, EndLocation, FColor::Red, false, 10.f, 0, 3.f);
+[2026.03.31-19.10.20:729][243]CompilerResultsLog:                       ^
+[2026.03.31-19.10.20:729][243]CompilerResultsLog: Trace written to file C:/Users/Developer/AppData/Local/UnrealBuildTool/Log.uba with size 4.1kb
+[2026.03.31-19.10.20:729][243]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 3.71 seconds
+[2026.03.31-19.10.20:729][243]CompilerResultsLog: 
+[2026.03.31-19.10.20:729][243]CompilerResultsLog: Result: Failed (OtherCompilationError)
+[2026.03.31-19.10.20:729][243]CompilerResultsLog: Total execution time: 4.26 seconds
+[2026.03.31-19.10.20:729][243]LogMainFrame: MainFrame: Module compiling took 4.393 seconds
+[2026.03.31-19.10.20:729][243]Warning: HotReload failed, recompile failed

@@ -19,6 +19,34 @@ UNREAL_FINAL_2026_API UClass* Z_Construct_UClass_AUnreal_Final_2026Character();
 UPackage* Z_Construct_UPackage__Script_Unreal_Final_2026();
 // ********** End Cross Module References **********************************************************
 
+// ********** Begin Class ACPP_InteractablePawn Function PerformWorldTrace *************************
+static FName NAME_ACPP_InteractablePawn_PerformWorldTrace = FName(TEXT("PerformWorldTrace"));
+void ACPP_InteractablePawn::PerformWorldTrace()
+{
+	UFunction* Func = FindFunctionChecked(NAME_ACPP_InteractablePawn_PerformWorldTrace);
+	ProcessEvent(Func,NULL);
+}
+struct Z_Construct_UFunction_ACPP_InteractablePawn_PerformWorldTrace_Statics
+{
+#if WITH_METADATA
+	static constexpr UECodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+		{ "ModuleRelativePath", "CPP_InteractablePawn.h" },
+	};
+#endif // WITH_METADATA
+	static const UECodeGen_Private::FFunctionParams FuncParams;
+};
+const UECodeGen_Private::FFunctionParams Z_Construct_UFunction_ACPP_InteractablePawn_PerformWorldTrace_Statics::FuncParams = { { (UObject*(*)())Z_Construct_UClass_ACPP_InteractablePawn, nullptr, "PerformWorldTrace", nullptr, 0, 0, RF_Public|RF_Transient|RF_MarkAsNative, (EFunctionFlags)0x08020800, 0, 0, METADATA_PARAMS(UE_ARRAY_COUNT(Z_Construct_UFunction_ACPP_InteractablePawn_PerformWorldTrace_Statics::Function_MetaDataParams), Z_Construct_UFunction_ACPP_InteractablePawn_PerformWorldTrace_Statics::Function_MetaDataParams)},  };
+UFunction* Z_Construct_UFunction_ACPP_InteractablePawn_PerformWorldTrace()
+{
+	static UFunction* ReturnFunction = nullptr;
+	if (!ReturnFunction)
+	{
+		UECodeGen_Private::ConstructUFunction(&ReturnFunction, Z_Construct_UFunction_ACPP_InteractablePawn_PerformWorldTrace_Statics::FuncParams);
+	}
+	return ReturnFunction;
+}
+// ********** End Class ACPP_InteractablePawn Function PerformWorldTrace ***************************
+
 // ********** Begin Class ACPP_InteractablePawn ****************************************************
 void ACPP_InteractablePawn::StaticRegisterNativesACPP_InteractablePawn()
 {
@@ -77,6 +105,10 @@ struct Z_Construct_UClass_ACPP_InteractablePawn_Statics
 	static const UECodeGen_Private::FObjectPropertyParams NewProp_InteractAction;
 	static const UECodeGen_Private::FPropertyParamsBase* const PropPointers[];
 	static UObject* (*const DependentSingletons[])();
+	static constexpr FClassFunctionLinkInfo FuncInfo[] = {
+		{ &Z_Construct_UFunction_ACPP_InteractablePawn_PerformWorldTrace, "PerformWorldTrace" }, // 3555847085
+	};
+	static_assert(UE_ARRAY_COUNT(FuncInfo) < 2048);
 	static constexpr FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ACPP_InteractablePawn>::IsAbstract,
 	};
@@ -97,11 +129,11 @@ const UECodeGen_Private::FClassParams Z_Construct_UClass_ACPP_InteractablePawn_S
 	"Game",
 	&StaticCppClassTypeInfo,
 	DependentSingletons,
-	nullptr,
+	FuncInfo,
 	Z_Construct_UClass_ACPP_InteractablePawn_Statics::PropPointers,
 	nullptr,
 	UE_ARRAY_COUNT(DependentSingletons),
-	0,
+	UE_ARRAY_COUNT(FuncInfo),
 	UE_ARRAY_COUNT(Z_Construct_UClass_ACPP_InteractablePawn_Statics::PropPointers),
 	0,
 	0x009001A4u,
@@ -124,10 +156,10 @@ ACPP_InteractablePawn::~ACPP_InteractablePawn() {}
 struct Z_CompiledInDeferFile_FID_Working_UnrealFinal_2026_Unreal_Final_2026_Source_Unreal_Final_2026_CPP_InteractablePawn_h__Script_Unreal_Final_2026_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ACPP_InteractablePawn, ACPP_InteractablePawn::StaticClass, TEXT("ACPP_InteractablePawn"), &Z_Registration_Info_UClass_ACPP_InteractablePawn, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACPP_InteractablePawn), 2403748698U) },
+		{ Z_Construct_UClass_ACPP_InteractablePawn, ACPP_InteractablePawn::StaticClass, TEXT("ACPP_InteractablePawn"), &Z_Registration_Info_UClass_ACPP_InteractablePawn, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACPP_InteractablePawn), 4270890283U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Working_UnrealFinal_2026_Unreal_Final_2026_Source_Unreal_Final_2026_CPP_InteractablePawn_h__Script_Unreal_Final_2026_3256444007(TEXT("/Script/Unreal_Final_2026"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Working_UnrealFinal_2026_Unreal_Final_2026_Source_Unreal_Final_2026_CPP_InteractablePawn_h__Script_Unreal_Final_2026_4214535930(TEXT("/Script/Unreal_Final_2026"),
 	Z_CompiledInDeferFile_FID_Working_UnrealFinal_2026_Unreal_Final_2026_Source_Unreal_Final_2026_CPP_InteractablePawn_h__Script_Unreal_Final_2026_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Working_UnrealFinal_2026_Unreal_Final_2026_Source_Unreal_Final_2026_CPP_InteractablePawn_h__Script_Unreal_Final_2026_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
