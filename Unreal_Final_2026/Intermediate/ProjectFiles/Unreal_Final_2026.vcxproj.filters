@@ -11,6 +11,7 @@
     <None Include="..\..\Source\Unreal_Final_2026Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,18 @@
     <Filter Include="Source\Unreal_Final_2026">
       <UniqueIdentifier>{FFCE96E1-BF1C-3630-982B-08B4FC356348}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\CPP_InteractableObject.cpp">
+      <Filter>Source\Unreal_Final_2026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\CPP_InteractableObject.h">
+      <Filter>Source\Unreal_Final_2026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\CPP_InteractablePawn.cpp">
+      <Filter>Source\Unreal_Final_2026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\CPP_InteractablePawn.h">
+      <Filter>Source\Unreal_Final_2026</Filter>
+    </ClInclude>
     <None Include="..\..\Source\Unreal_Final_2026\Unreal_Final_2026.Build.cs">
       <Filter>Source\Unreal_Final_2026</Filter>
     </None>

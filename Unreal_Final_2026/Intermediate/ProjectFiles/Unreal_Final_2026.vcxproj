@@ -252,11 +252,20 @@
     <None Include="..\..\Unreal_Final_2026.uproject"/>
     <None Include="..\..\Source\Unreal_Final_2026.Target.cs"/>
     <None Include="..\..\Source\Unreal_Final_2026Editor.Target.cs"/>
+    <None Include="..\..\.vsconfig"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
     <None Include="..\..\Config\DefaultInput.ini"/>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\CPP_InteractableObject.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\CPP_InteractableObject.h"/>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\CPP_InteractablePawn.cpp">
+      <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\CPP_InteractablePawn.h"/>
     <None Include="..\..\Source\Unreal_Final_2026\Unreal_Final_2026.Build.cs"/>
     <ClCompile Include="..\..\Source\Unreal_Final_2026\Unreal_Final_2026.cpp">
       <AdditionalIncludeDirectories>$(ClCompile_AdditionalIncludeDirectories)</AdditionalIncludeDirectories>

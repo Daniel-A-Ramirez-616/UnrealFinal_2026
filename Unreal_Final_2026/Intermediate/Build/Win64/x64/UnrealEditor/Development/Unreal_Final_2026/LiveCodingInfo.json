@@ -24,6 +24,8 @@
 			"CombatStateTreeUtility.gen.cpp.obj"
 		],
 		"Module.Unreal_Final_2026.2.cpp.obj": [
+			"CPP_InteractableObject.gen.cpp.obj",
+			"CPP_InteractablePawn.gen.cpp.obj",
 			"EnvQueryContext_Player.gen.cpp.obj",
 			"PlatformingCharacter.gen.cpp.obj",
 			"PlatformingGameMode.gen.cpp.obj",
@@ -46,6 +48,8 @@
 			"Unreal_Final_2026GameMode.gen.cpp.obj",
 			"Unreal_Final_2026PlayerController.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",
+			"CPP_InteractableObject.cpp.obj",
+			"CPP_InteractablePawn.cpp.obj",
 			"Unreal_Final_2026.cpp.obj",
 			"Unreal_Final_2026Character.cpp.obj",
 			"Unreal_Final_2026GameMode.cpp.obj",
@@ -71,7 +75,9 @@
 			"CombatLifeBar.cpp.obj",
 			"CombatPlayerController.cpp.obj",
 			"AnimNotify_EndDash.cpp.obj",
-			"PlatformingCharacter.cpp.obj",
+			"PlatformingCharacter.cpp.obj"
+		],
+		"Module.Unreal_Final_2026.3.cpp.obj": [
 			"PlatformingGameMode.cpp.obj",
 			"PlatformingPlayerController.cpp.obj",
 			"SideScrollingAIController.cpp.obj",
@@ -81,9 +87,7 @@
 			"SideScrollingMovingPlatform.cpp.obj",
 			"SideScrollingPickup.cpp.obj",
 			"SideScrollingSoftPlatform.cpp.obj",
-			"SideScrollingCameraManager.cpp.obj"
-		],
-		"Module.Unreal_Final_2026.3.cpp.obj": [
+			"SideScrollingCameraManager.cpp.obj",
 			"SideScrollingCharacter.cpp.obj",
 			"SideScrollingGameMode.cpp.obj",
 			"SideScrollingInteractable.cpp.obj",

@@ -1257,3 +1257,803 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.31-18.46.36:135][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 5.309134
 [2026.03.31-18.46.36:136][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1019657875
 [2026.03.31-18.46.36:136][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.309134, Update Interval: 307.939697
+[2026.03.31-18.47.24:070][332]LogSlate: Took 0.001354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.03.31-18.47.38:650][971]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.31-18.47.38:656][971]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.31-18.47.38:663][972]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.31-18.47.55:787][  9]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2026.03.31-18.47.55:788][  9]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.31-18.48.10:361][206]LogSlate: Window 'Save Level As' being destroyed
+[2026.03.31-18.48.10:449][206]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.31-18.48.10:449][206]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.03.31-18.48.10:449][206]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.31-18.48.10:449][206]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.31-18.48.10:450][206]LogWorldPartition: Display: WorldPartition initialize took 408 us (total: 63.120 ms)
+[2026.03.31-18.48.10:502][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.31-18.48.10:510][206]LogSavePackage: Moving output files for package: /Game/Levels/Lvl_ThirdPerson
+[2026.03.31-18.48.10:510][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/Lvl_ThirdPersonA36D69E14B1BEFDB197925A6FF11D32C.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Levels/Lvl_ThirdPerson.umap'
+[2026.03.31-18.48.10:511][206]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-18.48.10:515][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/D/RI/R8L7GQXCHQGMMKBPTBJTNA
+[2026.03.31-18.48.10:515][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/R8L7GQXCHQGMMKBPTBJTNA9521709A4E2500A5A5BFFDA194F6D7E9.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/D/RI/R8L7GQXCHQGMMKBPTBJTNA.uasset'
+[2026.03.31-18.48.10:521][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/0/9R/UKIMD8EYGPZFS8OC6GX24A
+[2026.03.31-18.48.10:521][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/UKIMD8EYGPZFS8OC6GX24AEC3C68C44A1757A5795E11945C7D8B69.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/0/9R/UKIMD8EYGPZFS8OC6GX24A.uasset'
+[2026.03.31-18.48.10:526][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/1/EU/X5MT1GOX9C5UUGZAKRVC3R
+[2026.03.31-18.48.10:526][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/X5MT1GOX9C5UUGZAKRVC3R0BFFD6EB44D4F34DFA7A5E823DD87CA8.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/1/EU/X5MT1GOX9C5UUGZAKRVC3R.uasset'
+[2026.03.31-18.48.10:531][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/1/K3/79QZQ7KG2RXNWMD6RSPKUM
+[2026.03.31-18.48.10:531][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/79QZQ7KG2RXNWMD6RSPKUM2332E6BE4D98A0863F243BB22AC4D692.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/1/K3/79QZQ7KG2RXNWMD6RSPKUM.uasset'
+[2026.03.31-18.48.10:537][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31
+[2026.03.31-18.48.10:537][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/UYSRPQ5SOYIFVLEQINPH3169082C7F4391CB784684A89309178403.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset'
+[2026.03.31-18.48.10:542][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/1/MV/2U2IE6JXO1320Q32RJQKSE
+[2026.03.31-18.48.10:542][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/2U2IE6JXO1320Q32RJQKSE2F59B152458D49C031C315B308422113.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/1/MV/2U2IE6JXO1320Q32RJQKSE.uasset'
+[2026.03.31-18.48.10:547][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/1/X5/JDOWWCJ7DZVSHT4Y29GQ4D
+[2026.03.31-18.48.10:548][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/JDOWWCJ7DZVSHT4Y29GQ4D4E07B8E4441BC69D324C11B736752BB6.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/1/X5/JDOWWCJ7DZVSHT4Y29GQ4D.uasset'
+[2026.03.31-18.48.10:552][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11
+[2026.03.31-18.48.10:552][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/9YGDW7FMEY1CZD31VUYO11A3CD5782438DF746D293E78E04726AFC.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset'
+[2026.03.31-18.48.10:559][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/2/AX/QEPSHOMS1K2ANUR3LXWOJM
+[2026.03.31-18.48.10:559][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/QEPSHOMS1K2ANUR3LXWOJM0B1FD501415C542233A63C93273BA07D.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/2/AX/QEPSHOMS1K2ANUR3LXWOJM.uasset'
+[2026.03.31-18.48.10:564][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/2/TV/DYUIEBPX2N8UFXT326WX2O
+[2026.03.31-18.48.10:565][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/DYUIEBPX2N8UFXT326WX2O5D85B2114404C6A9F81DCB92298EFD75.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/2/TV/DYUIEBPX2N8UFXT326WX2O.uasset'
+[2026.03.31-18.48.10:571][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/2/V0/9XTUAMN5S6UUCFB5K0ZGZM
+[2026.03.31-18.48.10:571][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/9XTUAMN5S6UUCFB5K0ZGZM73CAD1324DEC5997E2A2D889D26D736D.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/2/V0/9XTUAMN5S6UUCFB5K0ZGZM.uasset'
+[2026.03.31-18.48.10:577][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/3/0N/NTRPN55OWWUSD03K29ZOSH
+[2026.03.31-18.48.10:578][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/NTRPN55OWWUSD03K29ZOSHB9C9F4B74D72EF08E65D6FB90099D9C4.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/3/0N/NTRPN55OWWUSD03K29ZOSH.uasset'
+[2026.03.31-18.48.10:585][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/3/C5/3LNK9WKCBL4YVMWIBXQZ1I
+[2026.03.31-18.48.10:586][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/3LNK9WKCBL4YVMWIBXQZ1IBCE22792436375984966FEB2F99533EA.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/3/C5/3LNK9WKCBL4YVMWIBXQZ1I.uasset'
+[2026.03.31-18.48.10:592][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/3/D3/XWEMBL7KZTNQP83W1KTMXE
+[2026.03.31-18.48.10:592][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/XWEMBL7KZTNQP83W1KTMXE0BB4A18F496F1D07773F75A01E9B5396.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/3/D3/XWEMBL7KZTNQP83W1KTMXE.uasset'
+[2026.03.31-18.48.10:600][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE
+[2026.03.31-18.48.10:600][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/L159AMTR83MORHTF2GEOKE83D1F7E54F5DCCCFD31497A4584F403F.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE.uasset'
+[2026.03.31-18.48.10:608][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/3/L5/790AP8RYBMX9YBLGTW6WE6
+[2026.03.31-18.48.10:608][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/790AP8RYBMX9YBLGTW6WE67EB7CB8C4129F2A33CAE49BE5CEAA7F7.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/3/L5/790AP8RYBMX9YBLGTW6WE6.uasset'
+[2026.03.31-18.48.10:615][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/4/CQ/I205QOSSXONYWBP69RVMVA
+[2026.03.31-18.48.10:615][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/I205QOSSXONYWBP69RVMVA379C697A4C900D79032F24BB536AB3C3.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/4/CQ/I205QOSSXONYWBP69RVMVA.uasset'
+[2026.03.31-18.48.10:622][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/5/25/3IO0LF8AOO4YLSEAEN2JO1
+[2026.03.31-18.48.10:624][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/3IO0LF8AOO4YLSEAEN2JO14BD2587E48A5D5B485212B8E8DCACF9B.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/5/25/3IO0LF8AOO4YLSEAEN2JO1.uasset'
+[2026.03.31-18.48.10:631][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/5/9M/BJR5SDQDQW7QDFFPNUUMNX
+[2026.03.31-18.48.10:631][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/BJR5SDQDQW7QDFFPNUUMNX018257CE4B3D96CE4D83F58C440D75B0.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/5/9M/BJR5SDQDQW7QDFFPNUUMNX.uasset'
+[2026.03.31-18.48.10:640][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/5/KG/ETKAO35ANVW90XFH3J8GJ2
+[2026.03.31-18.48.10:640][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/ETKAO35ANVW90XFH3J8GJ287A6AC6D42DBFBB93E240095932DDD74.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/5/KG/ETKAO35ANVW90XFH3J8GJ2.uasset'
+[2026.03.31-18.48.10:647][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/5/W9/ZAAGYIUQZ2W6WEO3HPXAX7
+[2026.03.31-18.48.10:647][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/ZAAGYIUQZ2W6WEO3HPXAX7DFDD295E4D9F05C7232C5F9B139E0AE3.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/5/W9/ZAAGYIUQZ2W6WEO3HPXAX7.uasset'
+[2026.03.31-18.48.10:654][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/6/3C/KAT90QYQLFOHNMOF9BEDZK
+[2026.03.31-18.48.10:654][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/KAT90QYQLFOHNMOF9BEDZK1ECC239445364BCE686881A10B6BBA8E.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/6/3C/KAT90QYQLFOHNMOF9BEDZK.uasset'
+[2026.03.31-18.48.10:662][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K
+[2026.03.31-18.48.10:662][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/HFL05AWIVBP8M8UXTV4H5KAF25EA5B4B170D5D6D18B98834FBC224.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset'
+[2026.03.31-18.48.10:671][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/6/G9/77SUGCMHUBU5E7FP1DLCVD
+[2026.03.31-18.48.10:671][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/77SUGCMHUBU5E7FP1DLCVDFD6ECA024EEAFD9228E891B77EC5B7C2.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/6/G9/77SUGCMHUBU5E7FP1DLCVD.uasset'
+[2026.03.31-18.48.10:678][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/6/UK/OT5UOZ3WBJ9P30TU3DBDEK
+[2026.03.31-18.48.10:678][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/OT5UOZ3WBJ9P30TU3DBDEK0572950F4693EFCE0A5C97BC4C0AE6C5.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/6/UK/OT5UOZ3WBJ9P30TU3DBDEK.uasset'
+[2026.03.31-18.48.10:686][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/6/XM/SN8KJL01L24VVIYC52MNFR
+[2026.03.31-18.48.10:686][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/SN8KJL01L24VVIYC52MNFR7B3832584FAE9FCB4115CCB25D9B7223.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/6/XM/SN8KJL01L24VVIYC52MNFR.uasset'
+[2026.03.31-18.48.10:693][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/6/YB/C5UDZYKFL5M0YW62JXMPIZ
+[2026.03.31-18.48.10:693][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/C5UDZYKFL5M0YW62JXMPIZ6968E59542307733F24D05BCBDA53928.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/6/YB/C5UDZYKFL5M0YW62JXMPIZ.uasset'
+[2026.03.31-18.48.10:698][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/7/GV/W5DNM2FP1ON7VGU0C2BGMV
+[2026.03.31-18.48.10:698][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/W5DNM2FP1ON7VGU0C2BGMV9EE865624605E39CC9CFE98D875930BE.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/7/GV/W5DNM2FP1ON7VGU0C2BGMV.uasset'
+[2026.03.31-18.48.10:704][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/7/JD/OCW0UZT4ANZZD9YHEAOMAP
+[2026.03.31-18.48.10:704][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/OCW0UZT4ANZZD9YHEAOMAP9B1014B54F165D1B4B5F8F992C054A52.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/7/JD/OCW0UZT4ANZZD9YHEAOMAP.uasset'
+[2026.03.31-18.48.10:710][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/7/O7/IHUOIGG1MW1YZY097JJ8O7
+[2026.03.31-18.48.10:710][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/IHUOIGG1MW1YZY097JJ8O74F820F754962EFA56FA7F899F0BF8AF6.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/7/O7/IHUOIGG1MW1YZY097JJ8O7.uasset'
+[2026.03.31-18.48.10:714][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/7/XU/RW3P9HUUCOCG5TL3TPG6XF
+[2026.03.31-18.48.10:715][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/RW3P9HUUCOCG5TL3TPG6XFDDC4B89D4CF7B9651A32D681B6B03A99.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/7/XU/RW3P9HUUCOCG5TL3TPG6XF.uasset'
+[2026.03.31-18.48.10:720][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/8/0N/1OONKTGJMLVBN21M6JE59I
+[2026.03.31-18.48.10:720][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/1OONKTGJMLVBN21M6JE59I1CB1A15246D78280B1E091905E7783AE.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/8/0N/1OONKTGJMLVBN21M6JE59I.uasset'
+[2026.03.31-18.48.10:726][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/8/7A/C0UVMH95QVQO1KMTVK7MSB
+[2026.03.31-18.48.10:726][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/C0UVMH95QVQO1KMTVK7MSB6044AF664CC738ADA78C5280D55B940B.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/8/7A/C0UVMH95QVQO1KMTVK7MSB.uasset'
+[2026.03.31-18.48.10:731][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/8/HN/XXZLD30WH49IXWEHJXSVAR
+[2026.03.31-18.48.10:731][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/XXZLD30WH49IXWEHJXSVARC3F6EAA94FDD2722499540928DF78448.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/8/HN/XXZLD30WH49IXWEHJXSVAR.uasset'
+[2026.03.31-18.48.10:736][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP
+[2026.03.31-18.48.10:736][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/XX060WNO6GEZU5BZQCLZPP1A73FFF243086B11B01F8483B7DE3971.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset'
+[2026.03.31-18.48.10:741][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/8/WI/FHUVUALB8C8XRJ0PY9XXTI
+[2026.03.31-18.48.10:741][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/FHUVUALB8C8XRJ0PY9XXTI99DA7ADF42AE5CB6A0F758985537F041.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/8/WI/FHUVUALB8C8XRJ0PY9XXTI.uasset'
+[2026.03.31-18.48.10:747][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/8/XH/SKCKQTQDTE8ZNW6C0FCBRO
+[2026.03.31-18.48.10:747][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/SKCKQTQDTE8ZNW6C0FCBRO081BBA7942C0964BA14554A8C885A707.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/8/XH/SKCKQTQDTE8ZNW6C0FCBRO.uasset'
+[2026.03.31-18.48.10:751][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/9/5G/29Z6AXUGZPZ0CXHLK2DICG
+[2026.03.31-18.48.10:751][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/29Z6AXUGZPZ0CXHLK2DICG87DF40C2409E6D347E50A696C1C9F787.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/9/5G/29Z6AXUGZPZ0CXHLK2DICG.uasset'
+[2026.03.31-18.48.10:757][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/9/6V/AV0JKCFBVPU58UEBGB0GC0
+[2026.03.31-18.48.10:757][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/AV0JKCFBVPU58UEBGB0GC0E22FB73B4BD6EB48E903B99D483CEA23.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/9/6V/AV0JKCFBVPU58UEBGB0GC0.uasset'
+[2026.03.31-18.48.10:762][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/9/EE/OCR348BHEJWLHO72TR249H
+[2026.03.31-18.48.10:764][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/OCR348BHEJWLHO72TR249H50AA82D046956E3914E69D89292D58B0.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/9/EE/OCR348BHEJWLHO72TR249H.uasset'
+[2026.03.31-18.48.10:769][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/9/LX/1K6D4FIEJMOF50LSVJKFMP
+[2026.03.31-18.48.10:769][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/1K6D4FIEJMOF50LSVJKFMP0F7BDC7549DC3A5AB959DA927841B4C6.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/9/LX/1K6D4FIEJMOF50LSVJKFMP.uasset'
+[2026.03.31-18.48.10:775][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/9/UM/1F7R5WQFM2D9KH7A94JFBU
+[2026.03.31-18.48.10:775][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/1F7R5WQFM2D9KH7A94JFBUD5A6FA1D4AD644ED6583B2AE3892A529.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/9/UM/1F7R5WQFM2D9KH7A94JFBU.uasset'
+[2026.03.31-18.48.10:781][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/A/3J/Q8CQM512VVS7UZZW0KQRSV
+[2026.03.31-18.48.10:781][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/Q8CQM512VVS7UZZW0KQRSV6ED96F214A59357F1A9EE195FB0CFA9E.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/A/3J/Q8CQM512VVS7UZZW0KQRSV.uasset'
+[2026.03.31-18.48.10:787][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/A/8N/4L4W0MLV9WFUGRTMUBLBOP
+[2026.03.31-18.48.10:787][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/4L4W0MLV9WFUGRTMUBLBOPF54D131E4807069B27E5609D9A45E71F.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/A/8N/4L4W0MLV9WFUGRTMUBLBOP.uasset'
+[2026.03.31-18.48.10:794][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/A/BN/LKN4IB4C3UPW62GHBEKTIW
+[2026.03.31-18.48.10:794][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/LKN4IB4C3UPW62GHBEKTIW0027F2DD40A1E7C0C1FF2EBD0C099726.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/A/BN/LKN4IB4C3UPW62GHBEKTIW.uasset'
+[2026.03.31-18.48.10:802][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/A/IP/MGVQPE8M923OBBJLZBI1PC
+[2026.03.31-18.48.10:802][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/MGVQPE8M923OBBJLZBI1PCC6E70647492ADA0E5D342C8AECA1EF7A.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/A/IP/MGVQPE8M923OBBJLZBI1PC.uasset'
+[2026.03.31-18.48.10:808][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/B/0L/IL99N1JAI1J4A2DFQBQL53
+[2026.03.31-18.48.10:808][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/IL99N1JAI1J4A2DFQBQL534A62DAEE48CEDD5B2F87D18881B5D85F.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/B/0L/IL99N1JAI1J4A2DFQBQL53.uasset'
+[2026.03.31-18.48.10:817][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/B/2F/XTDQUHCYJJV6JCH4OJSVLG
+[2026.03.31-18.48.10:817][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/XTDQUHCYJJV6JCH4OJSVLG77FC88E74F844C928409C59AAF08A03B.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/B/2F/XTDQUHCYJJV6JCH4OJSVLG.uasset'
+[2026.03.31-18.48.10:824][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/B/HX/PES0ONLF01PSQTJCC5USD2
+[2026.03.31-18.48.10:824][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/PES0ONLF01PSQTJCC5USD2FF0CF251443D8419F4AD6498D4218A02.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/B/HX/PES0ONLF01PSQTJCC5USD2.uasset'
+[2026.03.31-18.48.10:832][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/B/P1/LRQT09TOYHOXK9DY22EIKE
+[2026.03.31-18.48.10:832][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/LRQT09TOYHOXK9DY22EIKE8EAC5CD34CF7897FA6CD58B457B48380.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/B/P1/LRQT09TOYHOXK9DY22EIKE.uasset'
+[2026.03.31-18.48.10:840][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/B/RX/297QBXCKTP06G7NIHIULK4
+[2026.03.31-18.48.10:840][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/297QBXCKTP06G7NIHIULK41559CC09439DC2ADC4AB6B9E342B118B.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/B/RX/297QBXCKTP06G7NIHIULK4.uasset'
+[2026.03.31-18.48.10:848][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/C/27/6ZCCZ1F7ZO6DM3C8OLVGTF
+[2026.03.31-18.48.10:848][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/6ZCCZ1F7ZO6DM3C8OLVGTF760F18E24E45C349EF2E9C9BFB062D5F.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/C/27/6ZCCZ1F7ZO6DM3C8OLVGTF.uasset'
+[2026.03.31-18.48.10:855][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/C/EE/HZ5WNBFZRJYQPUA6X8TVVT
+[2026.03.31-18.48.10:855][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/HZ5WNBFZRJYQPUA6X8TVVTFC0ADA3D40650C5BCB40D7908D04FBF2.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/C/EE/HZ5WNBFZRJYQPUA6X8TVVT.uasset'
+[2026.03.31-18.48.10:863][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626
+[2026.03.31-18.48.10:863][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/Q7CPP7VHOXBAMAJI90W6268D785A1E4F071DF0E670E484ACEB2A76.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset'
+[2026.03.31-18.48.10:870][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK
+[2026.03.31-18.48.10:870][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/EPTYZCFZWXT7Z7XYKZ88XK61DB53694680C64A4251A6BC3B513BD4.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK.uasset'
+[2026.03.31-18.48.10:877][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/D/50/395Y4QE4IIEWI3KSE3SB6L
+[2026.03.31-18.48.10:877][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/395Y4QE4IIEWI3KSE3SB6L52EBC5034F5E8FF54C7082B331D26E85.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/D/50/395Y4QE4IIEWI3KSE3SB6L.uasset'
+[2026.03.31-18.48.10:887][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/D/8U/VKFLMM0CV8ZCC0P3TQGTTM
+[2026.03.31-18.48.10:887][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/VKFLMM0CV8ZCC0P3TQGTTM2FC5BAF84471F68DFC6BE3989061D642.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/D/8U/VKFLMM0CV8ZCC0P3TQGTTM.uasset'
+[2026.03.31-18.48.10:895][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/D/AY/KLCRMXKI9WR2P0GDY96C36
+[2026.03.31-18.48.10:895][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/KLCRMXKI9WR2P0GDY96C363CEEA782470E6BAC3745149E0FCF5E63.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/D/AY/KLCRMXKI9WR2P0GDY96C36.uasset'
+[2026.03.31-18.48.10:901][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P
+[2026.03.31-18.48.10:901][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/NQBPXM7AM8N39CBW4ZT57P1E792FEF4B062A518AF0C7B50D641DE6.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset'
+[2026.03.31-18.48.10:908][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/D/M3/6T1XG4EDG4ZEE1U9HMYL4C
+[2026.03.31-18.48.10:909][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/6T1XG4EDG4ZEE1U9HMYL4CE64BB949484361FD31E9E19681B7F0DE.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/D/M3/6T1XG4EDG4ZEE1U9HMYL4C.uasset'
+[2026.03.31-18.48.10:915][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/D/MG/EDRUPW3EOYDDSI6HNSIVT1
+[2026.03.31-18.48.10:915][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/EDRUPW3EOYDDSI6HNSIVT1EE7A74A040883E072A41A7BAB73E985F.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/D/MG/EDRUPW3EOYDDSI6HNSIVT1.uasset'
+[2026.03.31-18.48.10:921][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/E/96/RFQP83S9K0LC7IW8CXS6C0
+[2026.03.31-18.48.10:921][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/RFQP83S9K0LC7IW8CXS6C0A4CCC7214D3EEDAB01468DBC747A1E8E.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/E/96/RFQP83S9K0LC7IW8CXS6C0.uasset'
+[2026.03.31-18.48.10:926][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/E/JR/W7S9610Y7RWELGF93FZYAE
+[2026.03.31-18.48.10:926][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/W7S9610Y7RWELGF93FZYAE8B2A1C394EF166F882C8E4B86A341176.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/E/JR/W7S9610Y7RWELGF93FZYAE.uasset'
+[2026.03.31-18.48.10:932][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/E/SS/QXUZ4IXFNKHCYFWERA1HQA
+[2026.03.31-18.48.10:932][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/QXUZ4IXFNKHCYFWERA1HQA222F1A254688906F0470F5B25DAD56EE.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/E/SS/QXUZ4IXFNKHCYFWERA1HQA.uasset'
+[2026.03.31-18.48.10:939][206]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS
+[2026.03.31-18.48.10:939][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/TYFCMQ9MC435YW6FZBF5FSFE3F4B6C415CB7EA910A6E8239A7B1C4.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset'
+[2026.03.31-18.48.10:944][206]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/Lvl_ThirdPerson/0/TQ/1UP2MCOIYXC0GTW985R4K0
+[2026.03.31-18.48.10:944][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/1UP2MCOIYXC0GTW985R4K0B1D0DF1B4307A5992B8909A13F61BA38.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalObjects__/Levels/Lvl_ThirdPerson/0/TQ/1UP2MCOIYXC0GTW985R4K0.uasset'
+[2026.03.31-18.48.10:949][206]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Levels/Lvl_ThirdPerson/5/TX/O6OLZU4WSCI3YRJS922SWL
+[2026.03.31-18.48.10:949][206]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/O6OLZU4WSCI3YRJS922SWL701037D344180D7186F235BE782BF594.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalObjects__/Levels/Lvl_ThirdPerson/5/TX/O6OLZU4WSCI3YRJS922SWL.uasset'
+[2026.03.31-18.48.10:951][206]LogFileHelpers: InternalPromptForCheckoutAndSave took 441.169 ms
+[2026.03.31-18.48.10:961][206]LogFileHelpers: Saving map 'Lvl_ThirdPerson' took 0.593
+[2026.03.31-18.48.10:961][206]Cmd: MAP LOAD FILE="../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Levels/Lvl_ThirdPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.31-18.48.10:968][206]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-18.48.10:968][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-18.48.10:968][206]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.31-18.48.10:982][206]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.31-18.48.10:985][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.31-18.48.10:986][206]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-18.48.10:986][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-18.48.10:986][206]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.31-18.48.11:000][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.03.31-18.48.11:012][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.31-18.48.11:012][206]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.31-18.48.11:015][206]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ThirdPerson'.
+[2026.03.31-18.48.11:015][206]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.31-18.48.11:016][206]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.03.31-18.48.11:016][206]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.31-18.48.11:016][206]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.31-18.48.11:025][206]LogWorldPartition: Display: WorldPartition initialize took 9.368 ms (total: 72.488 ms)
+[2026.03.31-18.48.11:054][206]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.31-18.48.11:067][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.31-18.48.11:071][206]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.31-18.48.11:071][206]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.39ms to complete.
+[2026.03.31-18.48.11:148][206]LogContentValidation: Display: Starting to validate 68 assets
+[2026.03.31-18.48.11:149][206]LogContentValidation: Enabled validators:
+[2026.03.31-18.48.11:149][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-18.48.11:149][206]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-18.48.11:149][206]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-18.48.11:149][206]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-18.48.11:149][206]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-18.48.11:149][206]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-18.48.11:149][206]AssetCheck: /Game/Levels/Lvl_ThirdPerson Validating asset
+[2026.03.31-18.48.11:205][206]LogAutomationController: Ignoring very large delta of 5.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.03.31-18.48.11:207][206]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.31-18.48.11:374][207]LogPSOHitching: Encountered 250 PSO creation hitches so far (72 graphics, 178 compute). 0 of them were precached.
+[2026.03.31-18.48.14:090][486]LogDerivedDataCache: C:/Users/Developer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.31-18.48.22:519][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.31-18.48.22:521][416]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.31-18.48.22:521][416]Cmd: MAP LOAD FILE="../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Levels/Lvl_ThirdPerson.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.31-18.48.22:565][416]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-18.48.22:565][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-18.48.22:565][416]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.31-18.48.22:581][416]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.31-18.48.22:582][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.03.31-18.48.22:583][416]LogStreaming: Display: FlushAsyncLoading(463): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.31-18.48.22:585][416]LogAudio: Display: Audio Device (ID: 1) registered with world 'Lvl_ThirdPerson'.
+[2026.03.31-18.48.22:585][416]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.31-18.48.22:586][416]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.03.31-18.48.22:586][416]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.31-18.48.22:586][416]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.31-18.48.22:594][416]LogWorldPartition: Display: WorldPartition initialize took 8.280 ms (total: 80.769 ms)
+[2026.03.31-18.48.22:673][416]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.31-18.48.22:687][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.31-18.48.22:691][416]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.31-18.48.22:691][416]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.398ms to complete.
+[2026.03.31-18.48.37:259][ 19]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.03.31-18.48.37:953][ 20]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.03.31-18.48.38:283][ 30]Cmd: DELETE
+[2026.03.31-18.48.38:283][ 30]Cmd: ACTOR DELETE
+[2026.03.31-18.48.38:292][ 30]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.38:306][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.31-18.48.38:308][ 30]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.03.31-18.48.38:666][ 52]Cmd: DELETE
+[2026.03.31-18.48.38:666][ 52]Cmd: ACTOR DELETE
+[2026.03.31-18.48.38:667][ 52]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.38:680][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.31-18.48.38:682][ 52]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.31-18.48.39:403][113]Cmd: DELETE
+[2026.03.31-18.48.39:403][113]Cmd: ACTOR DELETE
+[2026.03.31-18.48.39:404][113]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.39:416][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.31-18.48.39:417][113]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.03.31-18.48.39:994][176]Cmd: DELETE
+[2026.03.31-18.48.39:994][176]Cmd: ACTOR DELETE
+[2026.03.31-18.48.39:995][176]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.40:006][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.31-18.48.40:008][176]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.03.31-18.48.40:360][207]Cmd: DELETE
+[2026.03.31-18.48.40:360][207]Cmd: ACTOR DELETE
+[2026.03.31-18.48.40:361][207]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.40:372][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.31-18.48.40:374][207]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2026.03.31-18.48.40:687][226]Cmd: DELETE
+[2026.03.31-18.48.40:687][226]Cmd: ACTOR DELETE
+[2026.03.31-18.48.40:688][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.40:699][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.31-18.48.40:701][226]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.03.31-18.48.42:165][388]Cmd: TRANSACTION UNDO
+[2026.03.31-18.48.42:166][388]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.31-18.48.42:606][396]Cmd: TRANSACTION UNDO
+[2026.03.31-18.48.42:606][396]LogEditorTransaction: Undo Delete Elements
+[2026.03.31-18.48.42:904][411]Cmd: TRANSACTION UNDO
+[2026.03.31-18.48.42:904][411]LogEditorTransaction: Undo Clicking on Elements
+[2026.03.31-18.48.44:958][642]Cmd: DELETE
+[2026.03.31-18.48.44:958][642]Cmd: ACTOR DELETE
+[2026.03.31-18.48.44:959][642]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.44:972][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.31-18.48.44:975][642]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.03.31-18.48.46:017][748]Cmd: DELETE
+[2026.03.31-18.48.46:017][748]Cmd: ACTOR DELETE
+[2026.03.31-18.48.46:018][748]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.46:030][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.31-18.48.46:032][748]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.03.31-18.48.46:546][792]Cmd: DELETE
+[2026.03.31-18.48.46:546][792]Cmd: ACTOR DELETE
+[2026.03.31-18.48.46:547][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.46:559][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.31-18.48.46:561][792]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.31-18.48.46:988][825]Cmd: DELETE
+[2026.03.31-18.48.46:988][825]Cmd: ACTOR DELETE
+[2026.03.31-18.48.46:989][825]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.47:001][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.03.31-18.48.47:003][825]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.03.31-18.48.47:445][864]Cmd: DELETE
+[2026.03.31-18.48.47:445][864]Cmd: ACTOR DELETE
+[2026.03.31-18.48.47:446][864]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.47:458][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.31-18.48.47:460][864]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.03.31-18.48.47:982][915]Cmd: DELETE
+[2026.03.31-18.48.47:982][915]Cmd: ACTOR DELETE
+[2026.03.31-18.48.47:982][915]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.48:005][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.31-18.48.48:007][915]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.03.31-18.48.48:522][965]Cmd: DELETE
+[2026.03.31-18.48.48:523][965]Cmd: ACTOR DELETE
+[2026.03.31-18.48.48:523][965]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.48:537][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.31-18.48.48:540][965]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2026.03.31-18.48.49:015][  8]Cmd: DELETE
+[2026.03.31-18.48.49:015][  8]Cmd: ACTOR DELETE
+[2026.03.31-18.48.49:017][  8]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.49:028][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.31-18.48.49:030][  8]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.03.31-18.48.49:594][ 64]Cmd: DELETE
+[2026.03.31-18.48.49:594][ 64]Cmd: ACTOR DELETE
+[2026.03.31-18.48.49:595][ 64]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.49:607][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.31-18.48.49:609][ 64]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2026.03.31-18.48.50:155][118]Cmd: DELETE
+[2026.03.31-18.48.50:156][118]Cmd: ACTOR DELETE
+[2026.03.31-18.48.50:157][118]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.50:168][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.31-18.48.50:170][118]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2026.03.31-18.48.51:366][250]Cmd: DELETE
+[2026.03.31-18.48.51:366][250]Cmd: ACTOR DELETE
+[2026.03.31-18.48.51:367][250]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.51:381][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.31-18.48.51:383][250]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2026.03.31-18.48.51:882][296]Cmd: DELETE
+[2026.03.31-18.48.51:882][296]Cmd: ACTOR DELETE
+[2026.03.31-18.48.51:885][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.31-18.48.51:897][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.31-18.48.51:900][296]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2026.03.31-18.48.57:479][862]LogStreaming: Display: FlushAsyncLoading(530): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.31-18.49.10:415][316]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: ================================================
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Total job queries 2,437, among them cache hits 590 (24.21%), DDC hits 1,417 (58.15%), Duplicates 138 (5.66%)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Tracking 1,709 distinct input hashes that result in 1,061 distinct outputs (62.08%)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: RAM used: 10.74 MiB of 1.60 GiB budget. Usage: 0.66%
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Shaders Compiled: 292
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Jobs assigned 292, completed 292 (100%)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Average time worker was idle: 4.80 s
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Time job spent in pending queue: average 2.66 s, longest 8.17 s
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Job execution time: average 2.55 s, max 5.34 s
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Job life time (pending + execution): average 5.21 s, max 9.20
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Shader code size: total 2.743 MiB, numShaders 315, average 8.917 KiB, min 2.246 KiB, max 33.121 KiB
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 12.78 s
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.15%
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Jobs were issued in 76 batches (only local compilation was used), average 3.84 jobs/batch
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Average processing rate: 22.85 jobs/sec
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Total thread time: 117.626 s
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Total thread preprocess time: 32.554 s
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Percentage time preprocessing: 27.68%
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Effective parallelization: 9.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.766895
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.87 sec, max 1.87 sec, min 1.87 sec)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.85 sec, max 1.85 sec, min 1.85 sec)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   23 times, average 0.57 sec, max 0.71 sec, min 0.40 sec)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   24 times, average 0.45 sec, max 1.10 sec, min 0.29 sec)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display:                    TVirtualTexturePSBaseColorNormalRoughness (compiled    2 times, average 0.43 sec, max 0.46 sec, min 0.41 sec)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display:                                                  FVelocityPS - 11.08% of total time (compiled   23 times, average 0.57 sec, max 0.71 sec, min 0.40 sec)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.75% of total time (compiled   27 times, average 0.42 sec, max 1.32 sec, min 0.25 sec)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.13% of total time (compiled   24 times, average 0.45 sec, max 1.10 sec, min 0.29 sec)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display:                                                  FVelocityVS - 7.42% of total time (compiled   23 times, average 0.38 sec, max 0.50 sec, min 0.21 sec)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.24% of total time (compiled   25 times, average 0.34 sec, max 1.14 sec, min 0.16 sec)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: === Material stats ===
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Materials Translated:    144
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Material Total Translate Time: 0.11 s
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Material Translation Only: 0.04 s (41%)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.03.31-18.49.33:897][559]LogShaderCompilers: Display: ================================================
+[2026.03.31-18.50.12:559][165]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.03.31-18.50.32:309][473]Running C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" -game -rocket -progress
+[2026.03.31-18.50.32:415][473]Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.03.31-18.50.32:415][473]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" -game -rocket -progress
+[2026.03.31-18.50.32:717][473]Log file: C:\Users\Developer\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2026.03.31-18.50.32:817][473]
+[2026.03.31-18.50.32:817][473]Generating VisualStudio project files:
+[2026.03.31-18.50.32:817][473]Discovering modules, targets and source code for project...
+[2026.03.31-18.50.32:917][473]Adding projects for all targets...
+[2026.03.31-18.50.33:017][473]Available x64 toolchains (1):
+[2026.03.31-18.50.33:017][473] * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207
+[2026.03.31-18.50.33:017][473]    (Family=14.44.35207, FamilyRank=1, Version=14.44.35213, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64)
+[2026.03.31-18.50.33:017][473]Visual Studio 2022 compiler version 14.44.35213 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2026.03.31-18.50.33:770][473]Adding projects for all targets took 0.87s
+[2026.03.31-18.50.33:770][473]Adding projects for all game projects took 0.00s
+[2026.03.31-18.50.34:171][473]Adding projects for all modules took 0.33s
+[2026.03.31-18.50.34:272][473]Compiling Rules Assemblies
+[2026.03.31-18.50.34:300][473]Compiling Rules Assemblies 100%
+[2026.03.31-18.50.34:300][473]Creating Build Targets
+[2026.03.31-18.50.35:532][473]Creating Build Targets 100%
+[2026.03.31-18.50.35:532][473]Creating Build Targets took 1.25s
+[2026.03.31-18.50.35:532][473]Binding IntelliSense data...
+[2026.03.31-18.50.40:791][473]Binding IntelliSense data... 100%
+[2026.03.31-18.50.40:791][473]Binding IntelliSense data took 5.27s
+[2026.03.31-18.50.40:791][473]Writing project files...
+[2026.03.31-18.50.43:811][473]Writing project files... 100%
+[2026.03.31-18.50.43:811][473]Writing project files took 2.95s
+[2026.03.31-18.50.43:811][473]
+[2026.03.31-18.50.43:811][473]Generating QueryTargets data for editor...
+[2026.03.31-18.50.43:811][473]Compiling Rules Assemblies
+[2026.03.31-18.50.43:811][473]Compiling Rules Assemblies 100%
+[2026.03.31-18.50.43:811][473]Writing Query Target Info
+[2026.03.31-18.50.43:811][473]Writing Query Target Info 100%
+[2026.03.31-18.50.43:811][473]Generating QueryTargets data for editor took 0.03s
+[2026.03.31-18.50.43:811][473]
+[2026.03.31-18.50.43:811][473]Result: Succeeded
+[2026.03.31-18.50.43:811][473]Total execution time: 11.37 seconds
+[2026.03.31-18.50.44:221][473]LogLiveCoding: Display: Starting Live Coding compile.
+[2026.03.31-18.50.44:322][473]LogSlate: Window 'Add C++ Class' being destroyed
+[2026.03.31-18.50.45:521][473]LogAutomationController: Ignoring very large delta of 13.34 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.03.31-18.50.56:886][509]LogLiveCoding: Display: UbaCli v5.7.0-Uba_v1.0.0-42560232 (Rootdir: "C:\ProgramData\Epic\UbaCli", StoreCapacity: 20Gb)
+
+---- Starting trace: Debug265bc942-8547-4c1c-b1f3-19f3ccd5c519 ----
+Running C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\x64\link.exe @C:\Users\DEVELO~1\AppData\Local\Temp\AAF7.tmp
+   Creating library C:\Working\UnrealFinal_2026\Unreal_Final_2026\Binaries\Win64\UnrealEditor-Unreal_Final_2026.patch_0.lib and object C:\Working\UnrealFinal_2026\Unreal_Final_2026\Binaries\Win64\UnrealEditor-Unreal_Final_2026.patch_0.exp
+Detoured run took 724ms
+[2026.03.31-18.50.57:334][509]LogClass: UPackage /Script/Unreal_Final_2026 Reload.
+[2026.03.31-18.50.57:334][509]LogClass: Could not find existing class CPP_InteractableObject in package /Script/Unreal_Final_2026 for reload, assuming new or modified class
+[2026.03.31-18.50.57:428][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.31-18.50.57:548][509]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 19 classes unchanged, 2 scriptstructs unchanged, 25 functions remapped, 16 scriptstructs remapped
+[2026.03.31-18.50.57:548][509]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2026.03.31-18.51.06:381][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.03.31-18.51.07:443][310]LogSlate: Window 'Save Content' being destroyed
+[2026.03.31-18.51.07:464][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-18.51.07:524][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.03.31-18.51.07:537][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.31-18.51.07:551][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2026.03.31-18.51.07:561][310]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626
+[2026.03.31-18.51.07:562][310]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/Q7CPP7VHOXBAMAJI90W62686BFFB024A203CF120A82E9110B035A4.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/__ExternalActors__/Levels/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset'
+[2026.03.31-18.51.07:570][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.182 ms (total: 547.352 ms)
+[2026.03.31-18.51.07:620][310]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.31-18.51.07:620][310]LogContentValidation: Enabled validators:
+[2026.03.31-18.51.07:620][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-18.51.07:620][310]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-18.51.07:620][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-18.51.07:620][310]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-18.51.07:620][310]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-18.51.07:620][310]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-18.51.07:620][310]AssetCheck: /Game/Levels/Lvl_ThirdPerson Validating asset
+[2026.03.31-18.51.44:147][136]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 313.653717
+[2026.03.31-18.51.44:307][142]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 313.784302
+[2026.03.31-18.51.44:309][142]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -1646341118
+[2026.03.31-18.51.44:309][142]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 313.784302, Update Interval: 356.385376
+[2026.03.31-18.52.11:932][790]Running C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" -game -rocket -progress
+[2026.03.31-18.52.12:034][790]Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.03.31-18.52.12:034][790]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" -game -rocket -progress
+[2026.03.31-18.52.12:235][790]Log file: C:\Users\Developer\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2026.03.31-18.52.12:436][790]
+[2026.03.31-18.52.12:436][790]Generating VisualStudio project files:
+[2026.03.31-18.52.12:436][790]Discovering modules, targets and source code for project...
+[2026.03.31-18.52.12:436][790]Adding projects for all targets...
+[2026.03.31-18.52.12:637][790]Available x64 toolchains (1):
+[2026.03.31-18.52.12:637][790] * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207
+[2026.03.31-18.52.12:637][790]    (Family=14.44.35207, FamilyRank=1, Version=14.44.35213, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64)
+[2026.03.31-18.52.12:637][790]Visual Studio 2022 compiler version 14.44.35213 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2026.03.31-18.52.13:038][790]Adding projects for all targets took 0.58s
+[2026.03.31-18.52.13:038][790]Adding projects for all game projects took 0.00s
+[2026.03.31-18.52.13:240][790]Adding projects for all modules took 0.18s
+[2026.03.31-18.52.13:340][790]Compiling Rules Assemblies
+[2026.03.31-18.52.13:340][790]Compiling Rules Assemblies 100%
+[2026.03.31-18.52.13:340][790]Creating Build Targets
+[2026.03.31-18.52.14:552][790]Creating Build Targets 100%
+[2026.03.31-18.52.14:552][790]Creating Build Targets took 1.29s
+[2026.03.31-18.52.14:552][790]Binding IntelliSense data...
+[2026.03.31-18.52.17:073][790]Binding IntelliSense data... 100%
+[2026.03.31-18.52.17:073][790]Binding IntelliSense data took 2.45s
+[2026.03.31-18.52.17:073][790]Writing project files...
+[2026.03.31-18.52.19:086][790]Writing project files... 100%
+[2026.03.31-18.52.19:086][790]Writing project files took 2.08s
+[2026.03.31-18.52.19:086][790]
+[2026.03.31-18.52.19:086][790]Generating QueryTargets data for editor...
+[2026.03.31-18.52.19:086][790]Compiling Rules Assemblies
+[2026.03.31-18.52.19:086][790]Compiling Rules Assemblies 100%
+[2026.03.31-18.52.19:086][790]Writing Query Target Info
+[2026.03.31-18.52.19:187][790]Writing Query Target Info 100%
+[2026.03.31-18.52.19:187][790]Generating QueryTargets data for editor took 0.01s
+[2026.03.31-18.52.19:187][790]
+[2026.03.31-18.52.19:187][790]Result: Succeeded
+[2026.03.31-18.52.19:187][790]Total execution time: 7.09 seconds
+[2026.03.31-18.52.19:394][790]LogLiveCoding: Display: Starting Live Coding compile.
+[2026.03.31-18.52.19:521][790]LogSlate: Window 'Add C++ Class' being destroyed
+[2026.03.31-18.52.19:548][790]LogAutomationController: Ignoring very large delta of 8.21 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.03.31-18.52.32:401][963]LogLiveCoding: Display: UbaCli v5.7.0-Uba_v1.0.0-42560232 (Rootdir: "C:\ProgramData\Epic\UbaCli", StoreCapacity: 20Gb)
+
+---- Starting trace: Debug38aba6ca-de72-4e97-8ead-bcbd00b42da3 ----
+Running C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\bin\Hostx64\x64\link.exe @C:\Users\DEVELO~1\AppData\Local\Temp\2052.tmp
+   Creating library C:\Working\UnrealFinal_2026\Unreal_Final_2026\Binaries\Win64\UnrealEditor-Unreal_Final_2026.patch_1.lib and object C:\Working\UnrealFinal_2026\Unreal_Final_2026\Binaries\Win64\UnrealEditor-Unreal_Final_2026.patch_1.exp
+Detoured run took 655ms
+[2026.03.31-18.52.32:894][963]LogClass: UPackage /Script/Unreal_Final_2026 Reload.
+[2026.03.31-18.52.32:896][963]LogClass: Could not find existing class CPP_InteractablePawn in package /Script/Unreal_Final_2026 for reload, assuming new or modified class
+[2026.03.31-18.52.32:962][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.03.31-18.52.33:162][964]Display: Reload/Re-instancing Complete: 1 package changed, 1 class new, 20 classes unchanged, 2 scriptstructs unchanged, 25 functions remapped, 16 scriptstructs remapped
+[2026.03.31-18.52.33:162][964]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2026.03.31-18.54.08:710][397]LogLiveCoding: Display: Starting Live Coding compile.
+[2026.03.31-18.54.10:150][561]Display: Reload/Re-instancing Complete: No object changes detected
+[2026.03.31-18.54.10:150][561]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2026.03.31-18.54.18:258][432]LogLiveCoding: Display: Console will be hidden but remain running in the background. Restart to disable completely.
+[2026.03.31-18.54.20:568][700]LogStreaming: Display: FlushAsyncLoading(531): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.31-18.54.20:582][700]Candidate modules for hot reload:
+[2026.03.31-18.54.20:582][700]  Unreal_Final_2026
+[2026.03.31-18.54.20:585][700]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Unreal_Final_2026,4825 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk]
+[2026.03.31-18.54.20:590][700]Warning: Starting HotReload took  0.0s.
+[2026.03.31-18.54.21:604][764]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.03.31-18.54.21:604][764]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Unreal_Final_2026,4825 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk
+[2026.03.31-18.54.21:604][764]CompilerResultsLog: Log file: C:\Users\Developer\AppData\Local\UnrealBuildTool\Log.txt
+[2026.03.31-18.54.21:604][764]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Working\UnrealFinal_2026).
+[2026.03.31-18.54.21:604][764]CompilerResultsLog: Parsing headers for Unreal_Final_2026Editor
+[2026.03.31-18.54.21:604][764]CompilerResultsLog:   Running Internal UnrealHeaderTool C:\Working\UnrealFinal_2026\Unreal_Final_2026\Unreal_Final_2026.uproject C:\Working\UnrealFinal_2026\Unreal_Final_2026\Intermediate\Build\Win64\Unreal_Final_2026Editor\Development\Unreal_Final_2026Editor.uhtmanifest -WarningsAsErrors -installed
+[2026.03.31-18.54.21:604][764]CompilerResultsLog: Total of 0 written
+[2026.03.31-18.54.21:604][764]CompilerResultsLog: Error: C:\Working\UnrealFinal_2026\Unreal_Final_2026\Source\Unreal_Final_2026\CPP_InteractablePawn.h(13) : Error: Unable to find parent class type for 'ACPP_InteractablePawn' named 'ACPPLabCharacter'
+[2026.03.31-18.54.21:604][764]CompilerResultsLog: 
+[2026.03.31-18.54.21:604][764]CompilerResultsLog: Result: Failed (OtherCompilationError)
+[2026.03.31-18.54.21:604][764]CompilerResultsLog: Total execution time: 0.90 seconds
+[2026.03.31-18.54.21:604][764]LogMainFrame: MainFrame: Module compiling took 1.036 seconds
+[2026.03.31-18.54.21:604][764]LogStreaming: Display: FlushAsyncLoading(532): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.31-18.54.21:605][764]Warning: HotReload failed, recompile failed
+[2026.03.31-18.56.49:879][598]Candidate modules for hot reload:
+[2026.03.31-18.56.49:879][598]  Unreal_Final_2026
+[2026.03.31-18.56.49:883][598]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Unreal_Final_2026,7653 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk]
+[2026.03.31-18.56.49:887][598]Warning: Starting HotReload took  0.0s.
+[2026.03.31-18.56.50:855][650]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.03.31-18.56.50:855][650]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Unreal_Final_2026,7653 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk
+[2026.03.31-18.56.50:855][650]CompilerResultsLog: Log file: C:\Users\Developer\AppData\Local\UnrealBuildTool\Log.txt
+[2026.03.31-18.56.50:855][650]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Working\UnrealFinal_2026).
+[2026.03.31-18.56.50:855][650]CompilerResultsLog: Parsing headers for Unreal_Final_2026Editor
+[2026.03.31-18.56.50:855][650]CompilerResultsLog:   Running Internal UnrealHeaderTool C:\Working\UnrealFinal_2026\Unreal_Final_2026\Unreal_Final_2026.uproject C:\Working\UnrealFinal_2026\Unreal_Final_2026\Intermediate\Build\Win64\Unreal_Final_2026Editor\Development\Unreal_Final_2026Editor.uhtmanifest -WarningsAsErrors -installed
+[2026.03.31-18.56.50:855][650]CompilerResultsLog: Error: C:\Working\UnrealFinal_2026\Unreal_Final_2026\Source\Unreal_Final_2026\CPP_InteractablePawn.h(1) : Error: The given include must appear at the top of the header following all other includes: '#include "CPP_InteractablePawn.generated.h"'
+[2026.03.31-18.56.50:855][650]CompilerResultsLog: Total of 0 written
+[2026.03.31-18.56.50:855][650]CompilerResultsLog: 
+[2026.03.31-18.56.50:855][650]CompilerResultsLog: Result: Failed (OtherCompilationError)
+[2026.03.31-18.56.50:855][650]CompilerResultsLog: Total execution time: 0.85 seconds
+[2026.03.31-18.56.50:855][650]LogMainFrame: MainFrame: Module compiling took 0.990 seconds
+[2026.03.31-18.56.50:855][650]Warning: HotReload failed, recompile failed
+[2026.03.31-18.57.41:197][731]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 670.703369
+[2026.03.31-18.57.42:198][733]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-18.57.42:198][733]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 671.370361, Update Interval: 316.199829
+[2026.03.31-18.58.02:480][203]Candidate modules for hot reload:
+[2026.03.31-18.58.02:480][203]  Unreal_Final_2026
+[2026.03.31-18.58.02:484][203]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Unreal_Final_2026,0585 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk]
+[2026.03.31-18.58.02:488][203]Warning: Starting HotReload took  0.0s.
+[2026.03.31-18.58.03:768][295]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.03.31-18.58.03:768][295]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Unreal_Final_2026,0585 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk
+[2026.03.31-18.58.03:768][295]CompilerResultsLog: Log file: C:\Users\Developer\AppData\Local\UnrealBuildTool\Log.txt
+[2026.03.31-18.58.03:768][295]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Working\UnrealFinal_2026).
+[2026.03.31-18.58.03:768][295]CompilerResultsLog: Parsing headers for Unreal_Final_2026Editor
+[2026.03.31-18.58.03:768][295]CompilerResultsLog:   Running Internal UnrealHeaderTool C:\Working\UnrealFinal_2026\Unreal_Final_2026\Unreal_Final_2026.uproject C:\Working\UnrealFinal_2026\Unreal_Final_2026\Intermediate\Build\Win64\Unreal_Final_2026Editor\Development\Unreal_Final_2026Editor.uhtmanifest -WarningsAsErrors -installed
+[2026.03.31-18.58.03:769][295]CompilerResultsLog: Error: C:\Working\UnrealFinal_2026\Unreal_Final_2026\Source\Unreal_Final_2026\CPP_InteractablePawn.h(1) : Error: The given include must appear at the top of the header following all other includes: '#include "CPP_InteractablePawn.generated.h"'
+[2026.03.31-18.58.03:769][295]CompilerResultsLog: Total of 0 written
+[2026.03.31-18.58.03:769][295]CompilerResultsLog: 
+[2026.03.31-18.58.03:769][295]CompilerResultsLog: Result: Failed (OtherCompilationError)
+[2026.03.31-18.58.03:769][295]CompilerResultsLog: Total execution time: 1.10 seconds
+[2026.03.31-18.58.03:769][295]LogMainFrame: MainFrame: Module compiling took 1.310 seconds
+[2026.03.31-18.58.03:769][295]Warning: HotReload failed, recompile failed
+[2026.03.31-18.58.54:411][632]Candidate modules for hot reload:
+[2026.03.31-18.58.54:411][632]  Unreal_Final_2026
+[2026.03.31-18.58.54:415][632]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Unreal_Final_2026,1402 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk]
+[2026.03.31-18.58.54:419][632]Warning: Starting HotReload took  0.0s.
+[2026.03.31-18.59.04:898][828]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.03.31-18.59.04:898][828]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Unreal_Final_2026,1402 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk
+[2026.03.31-18.59.04:898][828]CompilerResultsLog: Log file: C:\Users\Developer\AppData\Local\UnrealBuildTool\Log.txt
+[2026.03.31-18.59.04:898][828]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Working\UnrealFinal_2026).
+[2026.03.31-18.59.04:898][828]CompilerResultsLog: Creating makefile for Unreal_Final_2026Editor (command line arguments changed)
+[2026.03.31-18.59.04:898][828]CompilerResultsLog: Available x64 toolchains (1):
+[2026.03.31-18.59.04:898][828]CompilerResultsLog:  * C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207
+[2026.03.31-18.59.04:898][828]CompilerResultsLog:     (Family=14.44.35207, FamilyRank=1, Version=14.44.35213, HostArchitecture=x64, ReleaseChannel=Latest, Architecture=x64)
+[2026.03.31-18.59.04:898][828]CompilerResultsLog: Visual Studio 2022 compiler version 14.44.35213 is not a preferred version. Please use the latest preferred version 14.38.33130
+[2026.03.31-18.59.04:898][828]CompilerResultsLog: Building Unreal_Final_2026Editor...
+[2026.03.31-18.59.04:898][828]CompilerResultsLog: Using Visual Studio 2022 14.44.35213 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2026.03.31-18.59.04:898][828]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2026.03.31-18.59.04:898][828]CompilerResultsLog: Determining max actions to execute in parallel (16 physical cores, 24 logical cores)
+[2026.03.31-18.59.04:898][828]CompilerResultsLog:   Executing up to 16 processes, one per physical core
+[2026.03.31-18.59.04:898][828]CompilerResultsLog:   Requested 1.5 GB memory per action, 7.61 GB available: limiting max parallel actions to 5
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 5 action(s)
+[2026.03.31-18.59.04:899][828]CompilerResultsLog:   Storage capacity 40Gb
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: ---- Starting trace: 260331_135856 ----
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: UbaServer - Listening on 0.0.0.0:1345
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: ------ Building 5 action(s) started ------
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: [1/5] Compile [x64] Module.Unreal_Final_2026.3.cpp
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: [2/5] Compile [x64] Module.Unreal_Final_2026.2.cpp
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: [3/5] Link [x64] UnrealEditor-Unreal_Final_2026-1402.lib
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: [4/5] Link [x64] UnrealEditor-Unreal_Final_2026-1402.dll
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: [5/5] WriteMetadata Unreal_Final_2026Editor.target (UBA disabled)
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: Trace written to file C:/Users/Developer/AppData/Local/UnrealBuildTool/Log.uba with size 4.1kb
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 8.09 seconds
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: 
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: Result: Succeeded
+[2026.03.31-18.59.04:899][828]CompilerResultsLog: Total execution time: 10.33 seconds
+[2026.03.31-18.59.04:899][828]LogMainFrame: MainFrame: Module compiling took 10.502 seconds
+[2026.03.31-18.59.04:899][828]LogStreaming: Display: FlushAsyncLoading(533): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.31-18.59.04:915][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.03.31-18.59.04:969][828]LogClass: UPackage /Script/Unreal_Final_2026 Reload.
+[2026.03.31-18.59.04:969][828]LogClass: UClass CPP_InteractableObject Reload.
+[2026.03.31-18.59.04:969][828]LogClass: UClass CPP_InteractablePawn Reload.
+[2026.03.31-18.59.04:976][828]LogClass: Could not find existing class CPP_InteractableObject in package /Script/Unreal_Final_2026 for reload, assuming new or modified class
+[2026.03.31-18.59.04:976][828]LogClass: Could not find existing class CPP_InteractablePawn in package /Script/Unreal_Final_2026 for reload, assuming new or modified class
+[2026.03.31-18.59.05:002][828]Re-instancing CPP_InteractableObject after reload.
+[2026.03.31-18.59.05:015][828]Re-instancing CPP_InteractablePawn after reload.
+[2026.03.31-18.59.05:072][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.31-18.59.05:084][828]Display: HotReload took 10.7s.
+[2026.03.31-18.59.05:084][828]Display: Reload/Re-instancing Complete: 1 package changed, 2 classes changed, 38 classes unchanged, 16 scriptstructs unchanged, 50 functions remapped, 16 scriptstructs remapped
+[2026.03.31-18.59.18:537][370]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.03.31-18.59.24:885][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.03.31-18.59.39:045][658]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter -> BP_InteractablePawn
+[2026.03.31-18.59.39:118][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-18.59.39:118][658]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/BP_InteractablePawn] ([2] browsable assets)...
+[2026.03.31-18.59.39:119][658]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.03.31-18.59.39:155][658]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Characters/BP_InteractablePawn.BP_InteractablePawn_C]
+[2026.03.31-18.59.39:155][658]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.03.31-18.59.39:168][658]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/BP_InteractablePawn.BP_InteractablePawn]
+[2026.03.31-18.59.39:168][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_InteractablePawn]
+[2026.03.31-18.59.39:168][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_InteractablePawn" FILE="../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Characters/BP_InteractablePawn.uasset" SILENT=true
+[2026.03.31-18.59.39:180][658]LogSavePackage: Moving output files for package: /Game/Characters/BP_InteractablePawn
+[2026.03.31-18.59.39:180][658]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/BP_InteractablePawn2C6D645C4DDBB843518B5CBD22430881.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Characters/BP_InteractablePawn.uasset'
+[2026.03.31-18.59.39:183][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 65.406 ms (total: 612.758 ms)
+[2026.03.31-18.59.39:202][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2026.03.31-18.59.39:214][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2026.03.31-18.59.39:226][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.03.31-18.59.39:282][658]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.31-18.59.39:282][658]LogContentValidation: Enabled validators:
+[2026.03.31-18.59.39:282][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-18.59.39:282][658]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-18.59.39:282][658]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-18.59.39:282][658]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-18.59.39:282][658]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-18.59.39:282][658]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-18.59.39:282][658]AssetCheck: /Game/Characters/BP_InteractablePawn Validating asset
+[2026.03.31-18.59.39:316][658]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.31-18.59.42:081][952]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/BP_InteractablePawn.BP_InteractablePawn
+[2026.03.31-18.59.42:082][952]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.03.31-18.59.42:166][952]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.31-18.59.44:980][ 99]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.03.31-18.59.45:761][174]LogSlate: Window 'BP_InteractablePawn' being destroyed
+[2026.03.31-18.59.57:457][517]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Characters/BP_InteractablePawn.BP_InteractablePawn from Unreal_Final_2026Character to CPP_InteractablePawn...
+[2026.03.31-18.59.57:536][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.03.31-19.00.02:279][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.03.31-19.00.37:927][ 51]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.03.31-19.00.37:933][ 51]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.03.31-19.00.37:945][ 52]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.03.31-19.00.48:820][358]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Interact
+[2026.03.31-19.00.48:824][358]LogContentBrowser: End creating deferred item NewInputAction
+[2026.03.31-19.00.50:447][524]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/Input/Actions/IA_Interact.IA_Interact
+[2026.03.31-19.00.57:028][242]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2026.03.31-19.01.13:472][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.03.31-19.01.13:475][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-19.01.13:512][ 59]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2026.03.31-19.01.13:512][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2026.03.31-19.01.13:512][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Input/IMC_Default.uasset" SILENT=true
+[2026.03.31-19.01.13:518][ 59]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2026.03.31-19.01.13:518][ 59]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/IMC_DefaultF2C4A2E04365CA9F76327FA6A034EC18.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Input/IMC_Default.uasset'
+[2026.03.31-19.01.13:519][ 59]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/BP_InteractablePawn] ([2] browsable assets)...
+[2026.03.31-19.01.13:574][ 59]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/BP_InteractablePawn.BP_InteractablePawn]
+[2026.03.31-19.01.13:575][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_InteractablePawn]
+[2026.03.31-19.01.13:575][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_InteractablePawn" FILE="../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Characters/BP_InteractablePawn.uasset" SILENT=true
+[2026.03.31-19.01.13:580][ 59]LogWorldPartition: Can't find class descriptor '/Game/Characters/BP_InteractablePawn.BP_InteractablePawn_C' for saving '/Game/Characters/BP_InteractablePawn.BP_InteractablePawn_C'
+[2026.03.31-19.01.13:580][ 59]LogWorldPartition: Can't find class descriptor '/Game/Characters/BP_InteractablePawn.BP_InteractablePawn_C' for saving '/Game/Characters/BP_InteractablePawn.BP_InteractablePawn_C'
+[2026.03.31-19.01.13:586][ 59]LogSavePackage: Moving output files for package: /Game/Characters/BP_InteractablePawn
+[2026.03.31-19.01.13:586][ 59]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/BP_InteractablePawn179DA89E442DE3EAC9E675A6043E514B.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Characters/BP_InteractablePawn.uasset'
+[2026.03.31-19.01.13:587][ 59]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Interact] ([1] browsable assets)...
+[2026.03.31-19.01.13:587][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Interact]
+[2026.03.31-19.01.13:587][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Interact" FILE="../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Input/Actions/IA_Interact.uasset" SILENT=true
+[2026.03.31-19.01.13:592][ 59]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Interact
+[2026.03.31-19.01.13:592][ 59]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/IA_Interact35C9F98D486189FB9E1205B72F7A185D.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Input/Actions/IA_Interact.uasset'
+[2026.03.31-19.01.13:599][ 59]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.339 ms (total: 737.098 ms)
+[2026.03.31-19.01.13:647][ 59]LogContentValidation: Display: Starting to validate 3 assets
+[2026.03.31-19.01.13:647][ 59]LogContentValidation: Enabled validators:
+[2026.03.31-19.01.13:647][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-19.01.13:647][ 59]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-19.01.13:647][ 59]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-19.01.13:647][ 59]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-19.01.13:647][ 59]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-19.01.13:647][ 59]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-19.01.13:648][ 59]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2026.03.31-19.01.13:648][ 59]AssetCheck: /Game/Characters/BP_InteractablePawn Validating asset
+[2026.03.31-19.01.13:648][ 59]AssetCheck: /Game/Input/Actions/IA_Interact Validating asset
+[2026.03.31-19.01.13:656][ 59]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.31-19.01.29:592][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.03.31-19.01.32:026][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.03.31-19.01.32:029][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-19.01.32:062][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/BP_InteractablePawn] ([2] browsable assets)...
+[2026.03.31-19.01.32:090][996]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/BP_InteractablePawn.BP_InteractablePawn]
+[2026.03.31-19.01.32:090][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_InteractablePawn]
+[2026.03.31-19.01.32:090][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_InteractablePawn" FILE="../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Characters/BP_InteractablePawn.uasset" SILENT=true
+[2026.03.31-19.01.32:095][996]LogWorldPartition: Can't find class descriptor '/Game/Characters/BP_InteractablePawn.BP_InteractablePawn_C' for saving '/Game/Characters/BP_InteractablePawn.BP_InteractablePawn_C'
+[2026.03.31-19.01.32:095][996]LogWorldPartition: Can't find class descriptor '/Game/Characters/BP_InteractablePawn.BP_InteractablePawn_C' for saving '/Game/Characters/BP_InteractablePawn.BP_InteractablePawn_C'
+[2026.03.31-19.01.32:102][996]LogSavePackage: Moving output files for package: /Game/Characters/BP_InteractablePawn
+[2026.03.31-19.01.32:102][996]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/BP_InteractablePawn4A8EAFCE44126067009EC8A0FF49E81E.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/Characters/BP_InteractablePawn.uasset'
+[2026.03.31-19.01.32:107][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.082 ms (total: 815.181 ms)
+[2026.03.31-19.01.32:165][996]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.31-19.01.32:165][996]LogContentValidation: Enabled validators:
+[2026.03.31-19.01.32:165][996]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-19.01.32:165][996]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-19.01.32:165][996]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-19.01.32:165][996]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-19.01.32:165][996]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-19.01.32:165][996]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-19.01.32:165][996]AssetCheck: /Game/Characters/BP_InteractablePawn Validating asset
+[2026.03.31-19.01.33:559][158]Candidate modules for hot reload:
+[2026.03.31-19.01.33:559][158]  Unreal_Final_2026
+[2026.03.31-19.01.33:563][158]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/Build.bat  -ModuleWithSuffix=Unreal_Final_2026,4661 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk]
+[2026.03.31-19.01.33:568][158]Warning: Starting HotReload took  0.0s.
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -ModuleWithSuffix=Unreal_Final_2026,4661 Unreal_Final_2026Editor Win64 Development -Project="C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject" "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Unreal_Final_2026.uproject"  -IgnoreJunk
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: Log file: C:\Users\Developer\AppData\Local\UnrealBuildTool\Log.txt
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Working\UnrealFinal_2026).
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: Building Unreal_Final_2026Editor...
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: Using Visual Studio 2022 14.44.35213 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: Warning: Visual Studio 2022 compiler is not a preferred version
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: Determining max actions to execute in parallel (16 physical cores, 24 logical cores)
+[2026.03.31-19.01.35:282][311]CompilerResultsLog:   Executing up to 16 processes, one per physical core
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: Using Unreal Build Accelerator local executor to run 3 action(s)
+[2026.03.31-19.01.35:282][311]CompilerResultsLog:   Storage capacity 40Gb
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: ---- Starting trace: 260331_140134 ----
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: UbaSessionServer - Disable remote execution (remote sessions will finish current processes)
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: ------ Building 3 action(s) started ------
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: [1/3] Link [x64] UnrealEditor-Unreal_Final_2026-4661.lib
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: [2/3] Link [x64] UnrealEditor-Unreal_Final_2026-4661.dll
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: [3/3] WriteMetadata Unreal_Final_2026Editor.target (UBA disabled)
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: Trace written to file C:/Users/Developer/AppData/Local/UnrealBuildTool/Log.uba with size 3.1kb
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: Total time in Unreal Build Accelerator local executor: 1.09 seconds
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: 
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: Result: Succeeded
+[2026.03.31-19.01.35:282][311]CompilerResultsLog: Total execution time: 1.58 seconds
+[2026.03.31-19.01.35:282][311]LogMainFrame: MainFrame: Module compiling took 1.745 seconds
+[2026.03.31-19.01.35:300][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.03.31-19.01.35:517][311]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.31-19.01.35:535][311]Display: HotReload took  2.0s.
+[2026.03.31-19.01.35:535][311]Display: Reload/Re-instancing Complete: 1 package changed, 40 classes unchanged, 16 scriptstructs unchanged, 50 functions remapped, 16 scriptstructs remapped
+[2026.03.31-19.02.16:900][998]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.31-19.02.16:902][998]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.31-19.02.16:903][998]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.03.31-19.02.16:903][998]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 465 us
+[2026.03.31-19.02.16:903][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.31-19.02.16:903][998]LogPlayLevel: Display: Creating online subsystem for client :Context_8
+[2026.03.31-19.02.16:905][998]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2026.03.31-19.02.16:940][999]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.31-19.02.16:942][999]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.31-19.02.16:943][999]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 593 us
+[2026.03.31-19.02.16:943][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003870s)
+[2026.03.31-19.02.16:943][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/Levels/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.003915s)
+[2026.03.31-19.02.17:001][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.31-19.02.17:002][999]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.03.31-19.02.17:004][999]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.31-19.02.17:004][999]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.31-19.02.17:004][999]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.31-19.02.17:004][999]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.31-19.02.17:004][999]LogWorldPartition: Display: WorldPartition initialize took 882 us (total: 81.651 ms)
+[2026.03.31-19.02.17:004][999]LogPlayLevel: PIE: World Init took: (0.002376s)
+[2026.03.31-19.02.17:005][999]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.03.31-19.02.17:005][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.31-19.02.17:005][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.31-19.02.17:005][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.31-19.02.17:005][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.31-19.02.17:005][999]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.31-19.02.17:005][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.31-19.02.17:005][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.31-19.02.17:005][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.31-19.02.17:005][999]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.31-19.02.17:005][999]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.31-19.02.17:005][999]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.31-19.02.17:007][999]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.31-19.02.17:030][999]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.31-19.02.17:030][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.31-19.02.17:030][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.31-19.02.17:030][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.31-19.02.17:030][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.03.31-19.02.17:030][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.03.31-19.02.17:032][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.03.31-19.02.17:032][999]LogInit: FAudioDevice initialized with ID 2.
+[2026.03.31-19.02.17:032][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.03.31-19.02.17:032][999]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_ThirdPerson'.
+[2026.03.31-19.02.17:032][999]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.03.31-19.02.17:035][999]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.03.31-19.02.17:036][999]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.03.31-14.02.17
+[2026.03.31-19.02.17:037][999]LogWorld: Bringing up level for play took: 0.001210
+[2026.03.31-19.02.17:624][999]PIE: Server logged in
+[2026.03.31-19.02.17:626][999]PIE: Play in editor total start time 0.723 seconds.
+[2026.03.31-19.02.19:822][ 95]LogTemplateCharacter: Warning: PerformWorldTrace
+[2026.03.31-19.02.20:586][134]LogTemplateCharacter: Warning: PerformWorldTrace
+[2026.03.31-19.02.20:840][151]LogTemplateCharacter: Warning: PerformWorldTrace
+[2026.03.31-19.02.21:050][165]LogTemplateCharacter: Warning: PerformWorldTrace
+[2026.03.31-19.02.21:318][182]LogTemplateCharacter: Warning: PerformWorldTrace
+[2026.03.31-19.02.21:537][196]LogTemplateCharacter: Warning: PerformWorldTrace
+[2026.03.31-19.02.22:443][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-19.02.22:443][251]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_ThirdPerson
+[2026.03.31-19.02.22:444][251]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.31-19.02.22:444][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.02.22:444][251]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.31-19.02.22:445][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.31-19.02.22:448][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.31-19.02.22:477][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.31-19.02.22:477][251]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.03.31-19.02.22:477][251]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.03.31-19.02.22:479][251]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.03.31-19.02.22:494][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.03.31-19.02.22:555][252]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2026.03.31-19.03.02:300][928]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 991.806885
+[2026.03.31-19.03.03:343][931]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.31-19.03.03:343][931]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 992.472717, Update Interval: 348.907135
+[2026.03.31-19.03.12:083][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2026.03.31-19.03.12:089][957]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_ThirdPerson' took 0.033
+[2026.03.31-19.03.12:090][957]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2026.03.31-19.03.12:090][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2026.03.31-19.03.12:100][957]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto1
+[2026.03.31-19.03.12:100][957]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/BP_ThirdPersonGameMode_Auto12DD1EC744D7C728A964374A3E1BD818D.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto1.uasset'
+[2026.03.31-19.03.12:100][957]LogFileHelpers: Auto-saving content packages took 0.011
+[2026.03.31-19.04.43:939][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.03.31-19.04.45:082][831]LogSlate: Window 'Save Content' being destroyed
+[2026.03.31-19.04.45:110][831]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.31-19.04.45:173][831]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2026.03.31-19.04.45:173][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2026.03.31-19.04.45:185][831]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2026.03.31-19.04.45:185][831]LogSavePackage: Moving '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/BP_ThirdPersonGameModeD1B78F104D9A3786D43AF88192F4F9FB.tmp' to '../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2026.03.31-19.04.45:191][831]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.780 ms (total: 895.962 ms)
+[2026.03.31-19.04.45:241][831]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.31-19.04.45:241][831]LogContentValidation: Enabled validators:
+[2026.03.31-19.04.45:241][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.31-19.04.45:241][831]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.31-19.04.45:241][831]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.31-19.04.45:241][831]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.31-19.04.45:241][831]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.31-19.04.45:241][831]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.31-19.04.45:242][831]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2026.03.31-19.04.45:254][831]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Working/UnrealFinal_2026/Unreal_Final_2026/Saved/SourceControl/UncontrolledChangelists.json
