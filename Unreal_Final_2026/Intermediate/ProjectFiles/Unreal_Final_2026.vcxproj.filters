@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Unreal_Final_2026.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Unreal_Final_2026.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Unreal_Final_2026Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Unreal_Final_2026">
+      <UniqueIdentifier>{FFCE96E1-BF1C-3630-982B-08B4FC356348}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Unreal_Final_2026\Unreal_Final_2026.Build.cs">
+      <Filter>Source\Unreal_Final_2026</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Unreal_Final_2026.cpp">
+      <Filter>Source\Unreal_Final_2026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Unreal_Final_2026.h">
+      <Filter>Source\Unreal_Final_2026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Unreal_Final_2026Character.cpp">
+      <Filter>Source\Unreal_Final_2026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Unreal_Final_2026Character.h">
+      <Filter>Source\Unreal_Final_2026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Unreal_Final_2026GameMode.cpp">
+      <Filter>Source\Unreal_Final_2026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Unreal_Final_2026GameMode.h">
+      <Filter>Source\Unreal_Final_2026</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Unreal_Final_2026PlayerController.cpp">
+      <Filter>Source\Unreal_Final_2026</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Unreal_Final_2026PlayerController.h">
+      <Filter>Source\Unreal_Final_2026</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_Final_2026\Variant_Combat">
+      <UniqueIdentifier>{77702D08-2272-3FBC-9417-F557E00C5CAE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AnimNotify_CheckCombo.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatActivatable.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatActivatable.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatActivationVolume.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatActivationVolume.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatAttacker.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatAttacker.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatCheckpointVolume.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatCheckpointVolume.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatDamageable.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatDamageable.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatDamageableBox.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatDamageableBox.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatDummy.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatDummy.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatLavaFloor.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatLavaFloor.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatLifeBar.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatLifeBar.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_Final_2026\Variant_Combat\AI">
+      <UniqueIdentifier>{3824C562-FA38-30E4-8BDB-8F4AF5E373A2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_Final_2026\Variant_Platforming">
+      <UniqueIdentifier>{41264029-F66C-3FC5-B22E-5CC239DD1541}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Platforming\AnimNotify_EndDash.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Platforming\AnimNotify_EndDash.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\Unreal_Final_2026\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_Final_2026\Variant_SideScrolling">
+      <UniqueIdentifier>{2E43AF1D-1281-3C41-98E0-F10AD22A9678}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\SideScrollingCPP.Build.cs">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\SideScrollingInteractable.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\SideScrollingInteractable.h">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\SideScrollingUI.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\SideScrollingUI.h">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_Final_2026\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{1D463D35-4294-341F-9B33-CB24D59843EA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{F6542FAF-0B61-34E3-83DF-653DBE077811}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\Unreal_Final_2026\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Unreal_Final_2026",
+			"Path": "..\\Source\\Unreal_Final_2026.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Unreal_Final_2026Editor",
+			"Path": "..\\Source\\Unreal_Final_2026Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
