@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Unreal_Final_2026ModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4652ea4354c595b32ed05b128d1d42544997d6be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39c4ead439116b773190c50dda72c6b6af006ba9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Unreal_Final_2026ModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Unreal_Final_2026ModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -75,12 +75,12 @@
 			"CombatLifeBar.cpp.obj",
 			"CombatPlayerController.cpp.obj",
 			"AnimNotify_EndDash.cpp.obj",
-			"PlatformingCharacter.cpp.obj",
-			"PlatformingGameMode.cpp.obj",
-			"PlatformingPlayerController.cpp.obj",
-			"SideScrollingAIController.cpp.obj"
+			"PlatformingCharacter.cpp.obj"
 		],
 		"Module.Unreal_Final_2026.3.cpp.obj": [
+			"PlatformingGameMode.cpp.obj",
+			"PlatformingPlayerController.cpp.obj",
+			"SideScrollingAIController.cpp.obj",
 			"SideScrollingNPC.cpp.obj",
 			"SideScrollingStateTreeUtility.cpp.obj",
 			"SideScrollingJumpPad.cpp.obj",

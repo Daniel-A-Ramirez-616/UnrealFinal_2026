@@ -51,6 +51,3 @@
 #include "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Source/Unreal_Final_2026/Variant_Combat/CombatPlayerController.cpp"
 #include "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Source/Unreal_Final_2026/Variant_Platforming/AnimNotify_EndDash.cpp"
 #include "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Source/Unreal_Final_2026/Variant_Platforming/PlatformingCharacter.cpp"
-#include "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Source/Unreal_Final_2026/Variant_Platforming/PlatformingGameMode.cpp"
-#include "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Source/Unreal_Final_2026/Variant_Platforming/PlatformingPlayerController.cpp"
-#include "C:/Working/UnrealFinal_2026/Unreal_Final_2026/Source/Unreal_Final_2026/Variant_SideScrolling/AI/SideScrollingAIController.cpp"
